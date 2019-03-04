@@ -1,1 +1,1 @@
-Nothing yet
+Hi, and welcome to my repository. I'm hoping to eventually produce a working disassembly of the nes game crystalis. The files here are all based on the US retail version. This will be slow going on my end & don't know if I will ever finish this but I offer my work here to help anyone else who is interested
